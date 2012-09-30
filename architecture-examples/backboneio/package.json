@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "name": "todomvc-backboneio",
+  "description": "tomvc backboneio implementation",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hokaccha/todomvc.git"
+  },
+  "dependencies": {
+    "backbone.io": "0.3.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
